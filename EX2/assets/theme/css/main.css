@@ -1,0 +1,12 @@
+.login {
+    height: 100vh;
+}
+
+.login .container,
+.login .container > div {
+    height: 100%;
+}
+
+.login input {
+    margin-bottom: .5rem;
+}
